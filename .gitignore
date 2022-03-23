@@ -144,3 +144,6 @@ app.*.map.json
 /pubspec.lock
 .env
 ios/Runner.xcodeproj/project.pbxproj
+amazon_clone_api/bin/utils/configuration.dart
+*.lock
+amazon_clone_api/pubspec.lock
