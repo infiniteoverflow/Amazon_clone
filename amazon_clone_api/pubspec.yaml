@@ -10,7 +10,8 @@ environment:
 dependencies:
   args: ^2.0.0
   shelf: ^1.1.0
-  shelf_router: ^1.0.0
+  shelf_router: ^1.1.2
+  firebase_dart: ^1.0.5
 
 dev_dependencies:
   http: ^0.13.0
