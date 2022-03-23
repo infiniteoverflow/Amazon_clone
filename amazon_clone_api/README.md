@@ -13,3 +13,11 @@ class Configuration {
   };
 }
 ```
+
+**Note: Make sure you create your Firebase Realtime Database Schema as per the designs in the `database_schema` folder**
+
+**API List**
+
+| Endpoint | Purpose | Http Method |
+| --------- | ------ | --- |
+| http://localhost:8080/categories | Fetches all the categories | GET
