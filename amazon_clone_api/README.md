@@ -14,7 +14,7 @@ class Configuration {
 }
 ```
 
-**Note: Make sure you create your Firebase Realtime Database Schema as per the designs in the `database_schema` folder**
+**Note: Make sure you set your Firebase Realtime Database Schema as per the designs in the `database_schema` folder**
 
 **API List**
 
