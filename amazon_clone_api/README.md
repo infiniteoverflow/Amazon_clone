@@ -21,3 +21,5 @@ class Configuration {
 | Endpoint | Purpose | Http Method |
 | --------- | ------ | --- |
 | http://localhost:8080/categories | Fetches all the categories | GET
+| http://localhost:8080/topbannerads | Fetches all the top banner ad data | GET
+| http://localhost:8080/carouselcard | Fetches all the carousal card data | GET
